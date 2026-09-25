@@ -314,13 +314,6 @@ python -m facepro.classical --data_dir data/fer2013/train
 
 ---
 
-## 📜 License
-
-Add a license of your choice (e.g. **MIT**) before publishing.
-
----
-
-<div align="center">
 
 **⭐ If you find this project useful, please consider giving it a star! ⭐**
 
